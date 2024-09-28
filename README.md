@@ -1,5 +1,7 @@
 Employee Retention Analysis Using Random Forest Model
+
 Project Overview
+
 This project addresses employee retention for Salifort Motors by predicting which employees are most likely to leave. We analyzed data related to employee evaluations, workload, and tenure to provide actionable insights to improve retention rates. We used a Random Forest model to identify key factors influencing employee turnover and proposed strategies based on our findings.
 
 Business Understanding
