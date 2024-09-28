@@ -43,13 +43,15 @@ Salary (low)
 Model Results:
 Random Forest Model had the best performance with a slight edge over the Decision Tree Model.
 
-Conclusion
+**Conclusion**
 
 We identified key areas for HR to focus on to improve employee retention:
 
 Limit the number of projects employees handle.
 Investigate why employees with four years of tenure are dissatisfied and address these issues.
 Reward employees for working longer hours or reduce workload expectations.
-Next Steps:
+
+**Next Steps:**
+
 HR Policy Adjustments: Implement a cap on projects and reconsider workload expectations.
 Further Research: Conduct surveys or qualitative research to better understand employee dissatisfaction.
